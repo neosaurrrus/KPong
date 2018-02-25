@@ -1,10 +1,4 @@
-/* Stuff to consider
-background color
-text color
-font-family
- */
-
- html {
+html {
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
   background: rgb(0,170,210);
