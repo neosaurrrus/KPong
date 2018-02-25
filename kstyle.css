@@ -1,0 +1,26 @@
+/* Stuff to consider
+background color
+text color
+font-family
+ */
+
+ html {
+  font-size: 20px;
+  font-family: sans-serif;
+  background: rgb(0,170,210);
+  color: white;
+  line-height: 1.4;
+}
+
+.site-wrap {
+      max-width: 800px;
+      margin: 100px auto;
+      background:rgb(255, 255, 255);
+      padding:40px;
+      text-align: justify;
+      color: rgb(0, 0, 0)
+}
+.center{
+      display:flex;
+      justify-content: center;
+}
